@@ -5,6 +5,10 @@
 
 ![Beyond the street](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/marcMoukarzel_mengyiFan.jpg?login=troyth&token=449487f68e5094073fa7e459c0292806)
 
+### Location
+
+New York City
+
 ### Caption
 
 As the city grows, land values increase, often resulting in urban sprawl. Rethinking the street as potential buildable space allows the traditional urban fabric to be redirected. Just as Rem Koolhaas argued that the invention of the elevator allowed urban space to exist on a new vertical axis, so too can a reconception of the street allow for mobility in multiple axes.
@@ -17,6 +21,10 @@ Mengyi Fan & Marc Moukarzel, 2012
 ## Gang Green
 
 ![Gang Green](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/kelseyLents.jpg?login=troyth&token=bb48679af7bac7d89a5632d0439ccc82)
+
+### Location
+
+New York City
 
 ### Caption
 
@@ -31,6 +39,10 @@ Kelsey Lents, 2012
 
 ![Sky Cave](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/vernonRoether.jpg?login=troyth&token=abb0b1c80005324bb670f7b56521e121)
 
+### Location
+
+New York City
+
 ### Caption
 
 Descent into a secret landscape of both active and forgotten infrastructure exposes visitors to the organs of a living, breathing city. Motion is abstracted and revealed at key moments punctuated by intrusions of light, sound, and touch.
@@ -43,6 +55,10 @@ Vernon Roether, 2012
 ## Water SpArrows
 
 ![Water SpArrows](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/mitchellBush.jpg?login=troyth&token=ad7cc8d1aed597fdaf89913416cfc556)
+
+### Location
+
+New York City
 
 ### Caption
 
