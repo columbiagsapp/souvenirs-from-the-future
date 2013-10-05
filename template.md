@@ -7,4 +7,4 @@ The image template should include the following.
 3.	"Presented by Arts Access and GSAPP" small text
 4.	"Image credit: Firstname Lastname, YYYY" image credit with year
 
-For actual content, see [image index file](https://github.com/columbiagsapp/souvenirs-from-the-future/blob/master/images/index.md).
+For actual content, see [image index file](https://github.com/columbiagsapp/souvenirs-from-the-future/blob/master/images.md).
