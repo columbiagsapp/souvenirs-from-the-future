@@ -1,3 +1,3 @@
 # Souvenirs from the Future
 
-Installation for Alumni Leaders Weekend, presented by Arts Access and GSAPP.
+Interactive installation for Alumni Leaders Weekend, presented by Arts Access and GSAPP.
