@@ -71,7 +71,7 @@ Mitchell Bush, 2012
 
 ## Dome
 
-![Dome](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/mitchellBush.jpg?login=troyth&token=ad7cc8d1aed597fdaf89913416cfc556)
+![Dome](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/ebbeStrathairn_juanPabloAzares.png)
 
 ### Location
 
@@ -79,11 +79,11 @@ New York City
 
 ### Caption
 
-By separating the exterior envelope of the building and turning it into a environmentally responsive dome, a self-reliant ecosystem along side new social and architectural typologies can exist independent of the city and it's changing climate.
+By separating the exterior envelope of the building and turning it into a environmentally responsive dome, a self-reliant ecosystem along side new social and architectural typologies can exist independent of the city and its changing climate.
 
 ### Credits
 
-Ebbe Strathairn & Juan Pablo Azares, 2012
+Ebberly Strathairn & Juan Pablo Azares, 2012
 
 
 ## Tentris
@@ -96,8 +96,8 @@ New York City
 
 ### Caption
 
-By separating the exterior envelope of the building and turning it into a environmentally responsive dome, a self-reliant ecosystem along side new social and architectural typologies can exist independent of the city and it's changing climate.
+The ideas of the city live on the street. Tentris, a flexible system of pop-up tents for street festivals, can rearrange in a variety of pixelated layouts, giving shelter to the ideas of NY.
 
 ### Credits
 
-Mitchell Bush, 2012
+Richard Angus Duff, Paul Chan & Ebberly Strathairn, 2013
