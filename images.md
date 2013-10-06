@@ -68,3 +68,36 @@ Water SpArrows is a radical proposal for bombing the Hudson with leisure platfor
 
 Mitchell Bush, 2012
 
+
+## Dome
+
+![Dome](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/mitchellBush.jpg?login=troyth&token=ad7cc8d1aed597fdaf89913416cfc556)
+
+### Location
+
+New York City
+
+### Caption
+
+By separating the exterior envelope of the building and turning it into a environmentally responsive dome, a self-reliant ecosystem along side new social and architectural typologies can exist independent of the city and it's changing climate.
+
+### Credits
+
+Ebbe Strathairn & Juan Pablo Azares, 2012
+
+
+## Tentris
+
+![Tentris](https://raw.github.com/columbiagsapp/souvenirs-from-the-future/master/images/richDuff_paulChan_ebbeStrathairn.png)
+
+### Location
+
+New York City
+
+### Caption
+
+By separating the exterior envelope of the building and turning it into a environmentally responsive dome, a self-reliant ecosystem along side new social and architectural typologies can exist independent of the city and it's changing climate.
+
+### Credits
+
+Mitchell Bush, 2012
