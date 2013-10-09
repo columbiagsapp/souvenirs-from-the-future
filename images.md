@@ -79,7 +79,7 @@ New York City
 
 ### Caption
 
-By separating the exterior envelope of the building and turning it into a environmentally responsive dome, a self-reliant ecosystem along side new social and architectural typologies can exist independent of the city and its changing climate.
+By separating the skin of the building to become a environmentally responsive dome, a self-reliant ecosystem is born, creating new social and architectural typologies that exist independent of the city and its changing climate.
 
 ### Credits
 
