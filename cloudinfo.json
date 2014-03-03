@@ -1,0 +1,31 @@
+{
+    "name": "Souvenirs from the Future",
+    "url": "https://www.facebook.com/media/set/?set=a.10153346664500198.1073741858.195421575197&type=1",
+    "version": "1.0",
+    "thumbnail": "screenshot.png",
+    "contributors": [
+        {
+            "name": "Troy Conrad Therrien",
+            "username": "troyth",
+            "role": "lead"
+        },
+        {
+            "name": "Ebberly Strathairn",
+            "username": "ebberly",
+            "role": "lead"
+        },
+        {
+            "name": "Kyong Kim",
+            "username": "kyongkim",
+            "role": "designer"
+        },
+        {
+            "name": "Rich Duff"
+        },
+        {
+            "name": "Paul Chan"
+        }
+    ],
+    "dependencies": [
+    ]
+}
